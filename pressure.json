@@ -1,0 +1,74 @@
+// Patient ID : 50006
+// Prescription Details
+// From Date :01/11/2020
+// To Date :30/11/2020
+Date : 11/11/2020
+{
+    "diastolic": 86,
+    "systolic": 129
+}
+Date : 11/12/2020
+{
+    "diastolic": 87,
+    "systolic": 135
+}
+Date : 12/12/2020
+{
+    "diastolic": 150,
+    "systolic": 100
+}
+Date : 30/11/2020
+{
+    "diastolic": 110,
+    "systolic": 153
+}
+Date : 23/11/2020
+{
+    "diastolic": 90,
+    "systolic": 70
+}
+Date : 12/12/2020
+{
+    "diastolic": 94,
+    "systolic": 149
+}
+Date : 12/01/2020
+{
+    "diastolic": 85,
+    "systolic": 145
+}
+Date : 16/11/2020
+{
+    "diastolic": 102,
+    "systolic": 145
+}
+Date : 23/11/2020
+{
+    "diastolic": 98,
+    "systolic": 134
+}
+Date : 19/11/2020
+{
+    "diastolic": 90,
+    "systolic": 125
+}
+Date : 23/11/2020
+{
+    "diastolic": 85,
+    "systolic": 132
+}
+Date : 19/12/2020
+{
+    "diastolic": 105,
+    "systolic": 154
+}
+Date : 27/11/2020
+{
+    "diastolic": 70,
+    "systolic": 110
+}
+Date : 12/07/2020
+{
+    "diastolic": 80,
+    "systolic": 120
+}

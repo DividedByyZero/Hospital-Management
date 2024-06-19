@@ -1,0 +1,669 @@
+// Patient ID : 50006
+// Prescription Details
+// From Date :01/11/2020
+// To Date :30/11/2020
+{
+    "date": "11/11/2020",
+    "bp": {
+        "diastolic": 86,
+        "systolic": 129
+    },
+    "sugar": null,
+    "weght": " kg",
+    "drugs": [
+        {
+            "name": "Dabelm 25",
+            "type": "injection",
+            "unit": null,
+            "dosage": "one",
+            "time": ""
+        },
+        {
+            "name": "Limbix",
+            "type": "tablet",
+            "unit": 1,
+            "dosage": "once a day",
+            "time": "any time"
+        },
+        {
+            "name": "Paricel 20",
+            "type": "capsule",
+            "unit": 1,
+            "dosage": "twice a day",
+            "time": "before meal"
+        },
+        {
+            "name": "Gaviflux",
+            "type": "syrup",
+            "unit": "2 spoon",
+            "dosage": "thrice a day",
+            "time": "any time"
+        },
+        {
+            "name": "Megestol",
+            "type": "syrup",
+            "unit": "2 spoon",
+            "dosage": "once a day",
+            "time": "any time"
+        }
+    ],
+    "diet_to_follow": " ",
+    "physician": {
+        "id": 20024,
+        "name": "Dr Mohammad Javed Hossain",
+        "specialist": "Medicine"
+    }
+}
+{
+    "date": "11/12/2020",
+    "bp": {
+        "diastolic": 87,
+        "systolic": 135
+    },
+    "sugar": null,
+    "weght": " kg",
+    "drugs": [
+        {
+            "name": "kefuclav 500",
+            "type": "tablet",
+            "unit": 1,
+            "dosage": "twice a day",
+            "time": "any time"
+        },
+        {
+            "name": "Zolvex 600",
+            "type": "tablet",
+            "unit": 1,
+            "dosage": "twice a day",
+            "time": "any time"
+        },
+        {
+            "name": "Montair 10",
+            "type": "tablet",
+            "unit": 1,
+            "dosage": "once a day",
+            "time": "after meal"
+        },
+        {
+            "name": "pantonix 20",
+            "type": "tablet",
+            "unit": 1,
+            "dosage": "twice a day",
+            "time": "before meal"
+        },
+        {
+            "name": "sultolin HFA 25/250 puffs",
+            "type": "Inheller",
+            "unit": "2 puffs",
+            "dosage": "twice a day",
+            "time": "any time"
+        }
+    ],
+    "diet_to_follow": " ",
+    "physician": {
+        "id": 20025,
+        "name": "Dr. Nabarun Biswas",
+        "specialist": "Chest Diasese"
+    }
+}
+{
+    "date": "12/12/2020",
+    "bp": {
+        "diastolic": 150,
+        "systolic": 100
+    },
+    "sugar": null,
+    "weght": " kg",
+    "drugs": [
+        {
+            "name": "Angiloc 50 plus",
+            "type": "tablet",
+            "unit": 1,
+            "dosage": "once a day",
+            "time": "any time"
+        },
+        {
+            "name": "Limbix",
+            "type": "tablet",
+            "unit": 1,
+            "dosage": "once a day",
+            "time": "any time"
+        },
+        {
+            "name": "progut 20",
+            "type": "capsule",
+            "unit": 1,
+            "dosage": "twice a day",
+            "time": "before meal"
+        }
+    ],
+    "diet_to_follow": " ",
+    "physician": {
+        "id": 20028,
+        "name": "Dr. AkM Nazmul Haque",
+        "specialist": "Orthipedics"
+    }
+}
+{
+    "date": "30/11/2020",
+    "bp": {
+        "diastolic": 110,
+        "systolic": 153
+    },
+    "sugar": null,
+    "weght": " kg",
+    "drugs": [
+        {
+            "name": "Regumen",
+            "type": "tablet",
+            "unit": 1,
+            "dosage": "once a day",
+            "time": "any time"
+        },
+        {
+            "name": "Pantonix 20",
+            "type": "tablet",
+            "unit": 1,
+            "dosage": "twice a day",
+            "time": "before meal"
+        },
+        {
+            "name": "hemofix fi",
+            "type": "capsule",
+            "unit": 1,
+            "dosage": "once a day",
+            "time": "any time"
+        },
+        {
+            "name": "traxil 500mg",
+            "type": "capsule",
+            "unit": 1,
+            "dosage": "thrice a day",
+            "time": "any time"
+        },
+        {
+            "name": "Cefotil plus 500",
+            "type": "capsule",
+            "unit": 1,
+            "dosage": "twice a day",
+            "time": "any time"
+        }
+    ],
+    "diet_to_follow": " ",
+    "physician": {
+        "id": 20033,
+        "name": "Dr sabita Roy",
+        "specialist": "Gynocogy"
+    }
+}
+{
+    "date": "23/11/2020",
+    "bp": {
+        "diastolic": 90,
+        "systolic": 70
+    },
+    "sugar": null,
+    "weght": " kg",
+    "drugs": [
+        {
+            "name": "Zeofol",
+            "type": "tablet",
+            "unit": 1,
+            "dosage": "once a day",
+            "time": "any time "
+        },
+        {
+            "name": "Microgest 200",
+            "type": "capsule",
+            "unit": 1,
+            "dosage": "once a day",
+            "time": "any time"
+        },
+        {
+            "name": "Acliz Plus",
+            "type": "tablet",
+            "unit": 1,
+            "dosage": "twice a day",
+            "time": "any time"
+        },
+        {
+            "name": "Exium 20mg",
+            "type": "capsule",
+            "unit": 1,
+            "dosage": "twice a day",
+            "time": "any time"
+        }
+    ],
+    "diet_to_follow": " ",
+    "physician": {
+        "id": 20034,
+        "name": "Dr. Shamsun-Nahar",
+        "specialist": "Gynae"
+    }
+}
+{
+    "date": "12/12/2020",
+    "bp": {
+        "diastolic": 94,
+        "systolic": 149
+    },
+    "sugar": null,
+    "weght": " kg",
+    "drugs": [
+        {
+            "name": "Clacide 625mg",
+            "type": "tablet",
+            "unit": 1,
+            "dosage": "thrice a day",
+            "time": "any time"
+        },
+        {
+            "name": "Metryl",
+            "type": "tablet",
+            "unit": 1,
+            "dosage": "twice a day",
+            "time": "any time"
+        },
+        {
+            "name": "Fabetor",
+            "type": "tablet",
+            "unit": 1,
+            "dosage": "once a day",
+            "time": "any time"
+        },
+        {
+            "name": "Finix 20mg",
+            "type": "tablet",
+            "unit": 1,
+            "dosage": "twice a day",
+            "time": "30 minitues before meal"
+        }
+    ],
+    "diet_to_follow": " ",
+    "physician": {
+        "id": 20035,
+        "name": "Dr. Sharmin Sultana",
+        "specialist": "BDS"
+    }
+}
+{
+    "date": "12/01/2020",
+    "bp": {
+        "diastolic": 85,
+        "systolic": 145
+    },
+    "sugar": null,
+    "weght": " kg",
+    "drugs": [
+        {
+            "name": "Napadol",
+            "type": "tablet",
+            "unit": 1,
+            "dosage": "twice a day",
+            "time": "any time"
+        },
+        {
+            "name": "Dexilent",
+            "type": "capsule",
+            "unit": 1,
+            "dosage": "twice a day",
+            "time": "any time"
+        },
+        {
+            "name": "ATV",
+            "type": "tablet",
+            "unit": 1,
+            "dosage": "once a day",
+            "time": "any time"
+        },
+        {
+            "name": "pase .5mg",
+            "type": "tablet",
+            "unit": 1,
+            "dosage": "once a day",
+            "time": "any time"
+        }
+    ],
+    "diet_to_follow": " ",
+    "physician": {
+        "id": 20036,
+        "name": "Dr. Uttam Kumar Sarker",
+        "specialist": "Neurology"
+    }
+}
+{
+    "date": "16/11/2020",
+    "bp": {
+        "diastolic": 102,
+        "systolic": 145
+    },
+    "sugar": null,
+    "weght": " kg",
+    "drugs": [
+        {
+            "name": "Afix 400mg",
+            "type": "capsule",
+            "unit": 1,
+            "dosage": "once a day",
+            "time": "any time"
+        },
+        {
+            "name": "Bisopor 2.5",
+            "type": "tablet",
+            "unit": 1,
+            "dosage": "twice a day",
+            "time": "any time"
+        },
+        {
+            "name": "Pandora 0.5mg",
+            "type": "tablet",
+            "unit": 0.5,
+            "dosage": "twice a day",
+            "time": "any time"
+        },
+        {
+            "name": "Lopioel plus",
+            "type": "tablet",
+            "unit": 1,
+            "dosage": "once a day",
+            "time": "any time"
+        }
+    ],
+    "diet_to_follow": " ",
+    "physician": {
+        "id": 20037,
+        "name": "Dr Mahmud Javed Hasan",
+        "specialist": "Nephrology"
+    }
+}
+{
+    "date": "23/11/2020",
+    "bp": {
+        "diastolic": 98,
+        "systolic": 134
+    },
+    "sugar": null,
+    "weght": " kg",
+    "drugs": [
+        {
+            "name": "solo 1000cc",
+            "type": "injection",
+            "unit": null,
+            "dosage": "",
+            "time": ""
+        },
+        {
+            "name": "Sodiclor",
+            "type": "tablet",
+            "unit": 3,
+            "dosage": "thrice a day",
+            "time": "any time"
+        },
+        {
+            "name": "Normo K",
+            "type": "",
+            "unit": null,
+            "dosage": "",
+            "time": ""
+        },
+        {
+            "name": "Paloxi 0.5mg",
+            "type": "tablet",
+            "unit": 1,
+            "dosage": "twice a day",
+            "time": "any time"
+        },
+        {
+            "name": "Maxrin R",
+            "type": "injection",
+            "unit": null,
+            "dosage": "",
+            "time": ""
+        }
+    ],
+    "diet_to_follow": " ",
+    "physician": {
+        "id": 20039,
+        "name": "Dr Mahmud Javed Hasan",
+        "specialist": "Nephrology"
+    }
+}
+{
+    "date": "19/11/2020",
+    "bp": {
+        "diastolic": 90,
+        "systolic": 125
+    },
+    "sugar": null,
+    "weght": "72 kg",
+    "drugs": [
+        {
+            "name": "Acenox 250",
+            "type": "tablet",
+            "unit": 1,
+            "dosage": "twice a day",
+            "time": "any time"
+        },
+        {
+            "name": "Propanol 40",
+            "type": "tablet",
+            "unit": 1,
+            "dosage": "twice a day",
+            "time": "any time"
+        },
+        {
+            "name": "Topirva 50",
+            "type": "tablet",
+            "unit": 1,
+            "dosage": "twice a day",
+            "time": "any time"
+        },
+        {
+            "name": "Clonaron 0.5",
+            "type": "tablet",
+            "unit": 1,
+            "dosage": "once a day",
+            "time": "any time"
+        },
+        {
+            "name": "Solivo 575",
+            "type": "tablet",
+            "unit": 1,
+            "dosage": "twice a day",
+            "time": "any time"
+        }
+    ],
+    "diet_to_follow": " ",
+    "physician": {
+        "id": 20042,
+        "name": "Dr Monobendra Bhattacharjee",
+        "specialist": "Neurology"
+    }
+}
+{
+    "date": "23/11/2020",
+    "bp": {
+        "diastolic": 85,
+        "systolic": 132
+    },
+    "sugar": null,
+    "weght": " kg",
+    "drugs": [
+        {
+            "name": "Olmezest 5/40 mg",
+            "type": "tablet",
+            "unit": 1,
+            "dosage": "once a day",
+            "time": "after meal"
+        },
+        {
+            "name": "Dicaltrol 0.25",
+            "type": "capsule",
+            "unit": 1,
+            "dosage": "once a day",
+            "time": "after meal"
+        },
+        {
+            "name": "Remophos 677mg",
+            "type": "tablet",
+            "unit": 1,
+            "dosage": "twice a day",
+            "time": "after meal"
+        },
+        {
+            "name": "Domin 10",
+            "type": "tablet",
+            "unit": 1,
+            "dosage": "thrice a day",
+            "time": "before meal"
+        },
+        {
+            "name": "Febus 40",
+            "type": "tablet",
+            "unit": 1,
+            "dosage": "once a day",
+            "time": "after meal"
+        }
+    ],
+    "diet_to_follow": " ",
+    "physician": {
+        "id": 20044,
+        "name": "Dr. Md Omar Faruque Miah",
+        "specialist": "Medicine"
+    }
+}
+{
+    "date": "19/12/2020",
+    "bp": {
+        "diastolic": 105,
+        "systolic": 154
+    },
+    "sugar": null,
+    "weght": " kg",
+    "drugs": [
+        {
+            "name": "Profenid E",
+            "type": "tablet",
+            "unit": 1,
+            "dosage": "twice a day",
+            "time": "after meal"
+        },
+        {
+            "name": "Finix 20",
+            "type": "capsule",
+            "unit": 1,
+            "dosage": "twice a day",
+            "time": "before meal"
+        },
+        {
+            "name": "Myolox 50",
+            "type": "tablet",
+            "unit": 1,
+            "dosage": "twice a day",
+            "time": "after meal"
+        }
+    ],
+    "diet_to_follow": " ",
+    "physician": {
+        "id": 20045,
+        "name": "Prof Dr. Anwarul Islam",
+        "specialist": "Suergeon"
+    }
+}
+{
+    "date": "27/11/2020",
+    "bp": {
+        "diastolic": 70,
+        "systolic": 110
+    },
+    "sugar": null,
+    "weght": " kg",
+    "drugs": [
+        {
+            "name": "Montinex 10mg",
+            "type": "tablet",
+            "unit": 1,
+            "dosage": "once a day",
+            "time": "after meal"
+        },
+        {
+            "name": "Xeldrin 20",
+            "type": "capsule",
+            "unit": 1,
+            "dosage": "twice a day",
+            "time": "before meal"
+        },
+        {
+            "name": "Omidon 10",
+            "type": "tablet",
+            "unit": 1,
+            "dosage": "thrice a day",
+            "time": "thrice a day"
+        },
+        {
+            "name": "Rivotril 0.5mg",
+            "type": "tablet",
+            "unit": 1,
+            "dosage": "once a day",
+            "time": "after meal"
+        },
+        {
+            "name": "Fenadin(120mg)",
+            "type": "tablet",
+            "unit": 1,
+            "dosage": "once a day",
+            "time": "after meal"
+        }
+    ],
+    "diet_to_follow": " ",
+    "physician": {
+        "id": 20046,
+        "name": "Dr. Md Jahidul Haque",
+        "specialist": "Diabatics"
+    }
+}
+{
+    "date": "12/07/2020",
+    "bp": {
+        "diastolic": 80,
+        "systolic": 120
+    },
+    "sugar": null,
+    "weght": " kg",
+    "drugs": [
+        {
+            "name": "Napa Extend",
+            "type": "tablet",
+            "unit": 1,
+            "dosage": "thrice a day",
+            "time": "any time"
+        },
+        {
+            "name": "Fexo 120",
+            "type": "tablet",
+            "unit": 1,
+            "dosage": "once a day",
+            "time": "any time"
+        },
+        {
+            "name": "Acifix 20",
+            "type": "tablet",
+            "unit": 1,
+            "dosage": "twice a day",
+            "time": "before meal"
+        },
+        {
+            "name": "Zimax 500",
+            "type": "tablet",
+            "unit": 1,
+            "dosage": "once a day",
+            "time": "any time"
+        }
+    ],
+    "diet_to_follow": "follow food table of diabetis company",
+    "physician": {
+        "id": 20049,
+        "name": "Dr. Manzurul Chowdhury",
+        "specialist": "Medicine"
+    }
+}
