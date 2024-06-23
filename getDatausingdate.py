@@ -41,7 +41,12 @@ results = collection.find(query)
 # Iterate over the result
 for document in results:
     print(f"Name : {document['name']}")
-    for pres in document['prescriptions']:
+    sorted_prescription = sorted(
+        document['prescriptions'],
+        key = lambda x : (datetime.strptime(str(x['date']), "%Y-%m-%d %H:%M:%S")).strftime("%Y-%m-%d"),
+        reverse=True
+    )
+    for pres in sorted_prescription:
         if pres['date'] >= start_date and pres['date'] <= end_date:
             print(f"Date {pres['date']}")
             print(pres)
